@@ -8,29 +8,30 @@
 # Hello World!👋 Helder Gomes aqui. 👨‍💻
 
 Logo abaixo segue de uma forma descontraída em linguagem Python algumas informações sobre a minha pessoa:</div>
-`nome = "Helder Gomes"`\
-`idade = 31`\
-`localidade = "Belém-PA"`\
-`ocupação = "universitário"`\
-`bacharelado = "Sistemas de Informação"`\
-`procurando = "estágio"`\
-`helldergms = """Um jovem rapaz que segue a vida vivendo um dia de cada vez enfrentando`\
-`as mais diversas dificuldades do cotidiano com resiliência,`\
-`buscando alcançar os objetivos com foco e determinação."""`
+```
+nome = "Helder Gomes" 
+idade = 31
+localidade = "Belém-PA"
+ocupação = "universitário"
+bacharelado = "Sistemas de Informação"
+procurando = "estágio"
+helldergms = """Um jovem rapaz que segue a vida vivendo um dia de cada vez enfrentando
+as mais diversas dificuldades do cotidiano com resiliência,
+buscando alcançar os objetivos com foco e determinação."""
 
-`print()`
+print()
 
-`print(f'Olá satisfação! Me chamo {nome} e tenho {idade} anos.\n'`\
-`      f'\nMoro na cidade de {localidade}, atualmente estou acadêmico {ocupação}\n'`\
-`      f'cursando {bacharelado} pela Faculdade Estácio do Pará.'`\
-`      f'\nEstou em busca de {procurando} na área de TI para colocar em prática\n'`\
-`      f'e desenvolver todo meu aprendizado obtido sobre tecnologia e adquirir\n'`\
-`      f'experiência profissional.')`
+print(f'Olá satisfação! Me chamo {nome} e tenho {idade} anos.\n'
+      f'\nMoro na cidade de {localidade}, atualmente sou acadêmico {ocupação}\n'
+      f'cursando {bacharelado} pela Faculdade Estácio do Pará.'
+      f'\nEstou em busca de {procurando} na área de TI para colocar em prática\n'
+      f'e desenvolver todo meu aprendizado obtido sobre tecnologia e adquirir\n'
+      f'experiência profissional.')
 
-`print()`
+print()
 
-`print('"' + helldergms + '"')`
-
+print('"' + helldergms + '"')
+```
 ---
 
 <div align="center">
