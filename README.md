@@ -71,11 +71,11 @@ print('"' + helldergms + '"')
 
 #### **Durante a realização deste projeto a aprendizagem adquirida foram as seguintes:**
 
-- Manuseio das ferramentas de versionamento Git & GitHub e suas funções
-- Criação e edição de MarkDown e suas funções
-- Formas de contribuir em um Projeto Open Source
-- Desenvolver e enviar a contribuição para um repositório Open Source
-- Concluir desafio de projeto "Contribuindo em um Projeto Open Source no GitHub" da DIO
+- [x] Manuseio das ferramentas de versionamento Git & GitHub e suas funções
+- [x] Criação e edição de MarkDown e suas funções
+- [x] Formas de contribuir em um Projeto Open Source
+- [x] Desenvolver e enviar a contribuição para um repositório Open Source
+- [x] Concluir desafio de projeto "Contribuindo em um Projeto Open Source no GitHub" da DIO
 
 #### **Quais desafios você enfrentou e como você os superou?**
 
