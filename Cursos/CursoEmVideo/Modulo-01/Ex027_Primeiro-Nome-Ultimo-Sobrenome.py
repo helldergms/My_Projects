@@ -1,4 +1,4 @@
-nome = str(input("Digite seu nome completo: ")).strip().title()
+nome = str(input("Digite seu nome completo: ")).title()
 lista_nome = nome.split()
 primeiro_nome = lista_nome[0]
 ultimo_sobrenome = lista_nome[-1]
