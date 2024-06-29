@@ -1,5 +1,7 @@
 nome = str(input("Digite seu nome completo: ")).strip().title()
+
 dividido = nome.split()
+
 print()
 print("Analisando seu nome...")
 print(f'Seu nome completo com iniciais maiúsculas fica {nome}')
