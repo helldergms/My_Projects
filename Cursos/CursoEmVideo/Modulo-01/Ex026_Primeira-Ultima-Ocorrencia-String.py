@@ -1,5 +1,7 @@
 frase = str(input("Digite uma frase: ")).strip().upper()
+
 letra = frase.count('A')
+
 print()
 print(f'A letra A aparece {letra} vezes na frase.')
 print(f'A primeira letra A apareceu na posição {frase.find('A') + 1}')
